@@ -1,0 +1,16 @@
+{
+    "name": "express-threejs",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node app",
+        "test": ""
+    },
+    "description": "ExpressThreejs",
+    "author": {
+        "name": ""
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
